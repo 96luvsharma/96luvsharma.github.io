@@ -3448,7 +3448,7 @@ img.u-pull-left {
 }
 
 .about-expertise .skills-list {
-  list-style: none;
+  list-style: disc;
   margin-top: var(--vspace-1);
   margin-left: 0;
 }
